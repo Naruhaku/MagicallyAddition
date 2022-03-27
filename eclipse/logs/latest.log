@@ -1,0 +1,52 @@
+[19:58:44] [main/INFO]: Setting user: Player665
+[19:58:49] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:59:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Magical Additions, FMLFileResourcePack:Botania, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Baubles
+[19:59:27] [Sound Library Loader/INFO]: Sound engine started
+[19:59:31] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[19:59:31] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[19:59:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Magical Additions, FMLFileResourcePack:Botania, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Baubles
+[19:59:39] [Client thread/INFO]: Created: 1024x512 textures/blocks-atlas
+[19:59:40] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
+[19:59:41] [Sound Library Loader/INFO]: Sound engine started
+[19:59:50] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[19:59:50] [Server thread/INFO]: Generating keypair
+[19:59:53] [Server thread/INFO]: Preparing start region for level 0
+[19:59:54] [Server thread/INFO]: Changing view distance to 12, from 10
+[19:59:56] [Server thread/INFO]: Player665[local:E:08a26601] logged in with entity id 205 at (-953.6443562577191, 4.0, 1456.5567332194867)
+[19:59:56] [Server thread/INFO]: Player665 присоединился к игре
+[19:59:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2336ms behind, skipping 46 tick(s)
+[20:00:01] [Server thread/INFO]: Saving and pausing game...
+[20:00:01] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:00:01] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:00:01] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:00:01] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[20:00:09] [Client thread/INFO]: [CHAT] InvTweaks: .\config\InvTweaksRules.txt не найден, создаю по умолчанию.
+[20:00:09] [Client thread/INFO]: [CHAT] InvTweaks: .\config\InvTweaksTree.txt не найден, создаю по умолчанию.
+[20:00:09] [Client thread/INFO]: [CHAT] InvTweaks: Настройки загружены.
+[20:00:16] [Server thread/INFO]: Player665 заработал достижение [Проверить карманы]
+[20:00:16] [Client thread/INFO]: [CHAT] Player665 заработал достижение [Проверить карманы]
+[20:01:10] [Client thread/INFO]: [CHAT] <magicaladditions:alchemystone> * 1
+[20:01:33] [Client thread/INFO]: [CHAT] Scripts reloaded
+[20:01:43] [Server thread/INFO]: [Player665: Дано [Магический верстак] * 64 игроку Player665]
+[20:01:43] [Client thread/INFO]: [CHAT] Дано [Магический верстак] * 64 игроку Player665
+[20:01:45] [Server thread/INFO]: [Player665: Дано [Камень] * 64 игроку Player665]
+[20:01:45] [Client thread/INFO]: [CHAT] Дано [Камень] * 64 игроку Player665
+[20:01:45] [Server thread/INFO]: [Player665: Дано [Камень] * 64 игроку Player665]
+[20:01:45] [Client thread/INFO]: [CHAT] Дано [Камень] * 64 игроку Player665
+[20:01:45] [Server thread/INFO]: [Player665: Дано [Камень] * 64 игроку Player665]
+[20:01:45] [Client thread/INFO]: [CHAT] Дано [Камень] * 64 игроку Player665
+[20:01:45] [Server thread/INFO]: [Player665: Дано [Камень] * 64 игроку Player665]
+[20:01:45] [Client thread/INFO]: [CHAT] Дано [Камень] * 64 игроку Player665
+[20:01:54] [Server thread/INFO]: Saving and pausing game...
+[20:01:54] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:01:54] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:01:54] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:01:54] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[20:01:55] [Server thread/INFO]: Stopping server
+[20:01:55] [Server thread/INFO]: Saving players
+[20:01:55] [Server thread/INFO]: Saving worlds
+[20:01:55] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:01:55] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:01:55] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:01:55] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[20:01:57] [Client thread/INFO]: Stopping!
